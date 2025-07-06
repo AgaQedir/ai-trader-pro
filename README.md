@@ -1,1 +1,1 @@
-# Ai-trader-pro
+# ai-trader-pro
